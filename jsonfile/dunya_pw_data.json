@@ -1,0 +1,100 @@
+[
+    {
+        "Account": "gmail",
+        "User_Id": "dunya",
+        "Website": "None",
+        "Password": "lwrjlkjk",
+        "encrepted": "False"
+    },
+    {
+        "Account": "yahoo",
+        "User_Id": "duniahadi",
+        "Website": "None",
+        "Password": "s{H/n9q7Ho2~M@7Y",
+        "encrepted": "False"
+    },
+    {
+        "Account": "yahoo",
+        "User_Id": "duniahadi@yahoo.com",
+        "Website": "none",
+        "Password": "gAAAAABmKlWNsd_gUTs2KiaJroZeWvp9JN1WR56yLVBt1fnupvIFPN4ULdw6aeZMqmXIQdWadmuuMELd7nfmZYw3INqXoyHfCw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "facebook",
+        "User_Id": "dunyahadi",
+        "Website": "none",
+        "Password": "gAAAAABmKlpGQ_-MXhqIPUOjKnm2HBuSv-zwnam1LUKXImv3yF_y9ijoGWxAderS9ZdJt_7ZWE-0Wc_tGIe87aHaAMXdW4JlBw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "cisco",
+        "User_Id": "dunyahadi",
+        "Website": "none",
+        "Password": "j>1OqBJ@G]45f8.",
+        "encrepted": "False"
+    },
+    {
+        "Account": "gmail",
+        "User_Id": "dunia_hadi",
+        "Website": "none",
+        "Password": "jdhffh",
+        "encrepted": "False"
+    },
+    {
+        "Account": "facebook",
+        "User_Id": "dunia_hadi",
+        "Website": "fhsghgshsjf",
+        "Password": "0d(9[CQ2rHhg/A",
+        "encrepted": "False"
+    },
+    {
+        "Account": "yahoo",
+        "User_Id": "dunia_hadi",
+        "Website": "www.yahoo.de",
+        "Password": "~5twVtJ0?{B0",
+        "encrepted": "False"
+    },
+    {
+        "Account": "google",
+        "User_Id": "dunyahadi",
+        "Website": "none",
+        "Password": "cisco123",
+        "encrepted": "False"
+    },
+    {
+        "Account": "gmail",
+        "User_Id": "dunyahadi@gmail.com",
+        "Website": "https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1",
+        "Password": "gAAAAABmRKBliKcuMnwz5VpqIwCuIaycs7Jp-0H8Ea44ePGT5EbPhRROi37_XkWW2eepm_RWfBj7dLoTUc9R52HdAOVlEzPeJA==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "gmail",
+        "User_Id": "dunyaabdul@gmail.com",
+        "Website": "www.google.com",
+        "Password": "gAAAAABmRKekUUuV-ijknSv7FoOZYuM6D8Sb8JUMmQgxky8DJ4dhUzfyW89GVsKkgtvJGOjuTSIScH_vqv7q_kkAWI5d7QqHMw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "linkend",
+        "User_Id": "dunya",
+        "Website": "none",
+        "Password": "7/hosFhMY#9\"1",
+        "encrepted": "False"
+    },
+    {
+        "Account": "linkend",
+        "User_Id": "dunya_abdulrazzaq",
+        "Website": "none",
+        "Password": "12345",
+        "encrepted": "False"
+    },
+    {
+        "Account": "GitHUP",
+        "User_Id": "dunya_Abdulrazzaq",
+        "Website": "",
+        "Password": "12hgfzu23323",
+        "encrepted": "False"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "Account": "gmail",
+        "User_Id": "dunya",
+        "Website": "None",
+        "Password": "lwrjlkjk",
+        "encrepted": "False"
+    },
+    {
+        "Account": "yahoo",
+        "User_Id": "duniahadi",
+        "Website": "None",
+        "Password": "s{H/n9q7Ho2~M@7Y",
+        "encrepted": "False"
+    },
+    {
+        "Account": "yahoo",
+        "User_Id": "duniahadi@yahoo.com",
+        "Website": "none",
+        "Password": "gAAAAABmKlWNsd_gUTs2KiaJroZeWvp9JN1WR56yLVBt1fnupvIFPN4ULdw6aeZMqmXIQdWadmuuMELd7nfmZYw3INqXoyHfCw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "facebook",
+        "User_Id": "dunyahadi",
+        "Website": "none",
+        "Password": "gAAAAABmKlpGQ_-MXhqIPUOjKnm2HBuSv-zwnam1LUKXImv3yF_y9ijoGWxAderS9ZdJt_7ZWE-0Wc_tGIe87aHaAMXdW4JlBw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "cisco",
+        "User_Id": "dunyahadi",
+        "Website": "none",
+        "Password": "j>1OqBJ@G]45f8.",
+        "encrepted": "False"
+    },
+    {
+        "Account": "gmail",
+        "User_Id": "dunia_hadi",
+        "Website": "none",
+        "Password": "jdhffh",
+        "encrepted": "False"
+    },
+    {
+        "Account": "facebook",
+        "User_Id": "dunia_hadi",
+        "Website": "fhsghgshsjf",
+        "Password": "0d(9[CQ2rHhg/A",
+        "encrepted": "False"
+    },
+    {
+        "Account": "yahoo",
+        "User_Id": "dunia_hadi",
+        "Website": "www.yahoo.de",
+        "Password": "~5twVtJ0?{B0",
+        "encrepted": "False"
+    },
+    {
+        "Account": "google",
+        "User_Id": "dunyahadi",
+        "Website": "none",
+        "Password": "cisco123",
+        "encrepted": "False"
+    },
+    {
+        "Account": "linkend",
+        "User_Id": "erfstra",
+        "Website": "erfttg",
+        "Password": "",
+        "encrepted": "False"
+    },
+    {
+        "Account": "gmail",
+        "User_Id": "dunyahadi@gmail.com",
+        "Website": "https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1",
+        "Password": "gAAAAABmRKBliKcuMnwz5VpqIwCuIaycs7Jp-0H8Ea44ePGT5EbPhRROi37_XkWW2eepm_RWfBj7dLoTUc9R52HdAOVlEzPeJA==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "gmail",
+        "User_Id": "dunyaabdul@gmail.com",
+        "Website": "www.google.com",
+        "Password": "gAAAAABmRKekUUuV-ijknSv7FoOZYuM6D8Sb8JUMmQgxky8DJ4dhUzfyW89GVsKkgtvJGOjuTSIScH_vqv7q_kkAWI5d7QqHMw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "linkend",
+        "User_Id": "dunyaabdul",
+        "Website": "none",
+        "Password": "",
+        "encrepted": "False"
+    },
+    {
+        "Account": "python",
+        "User_Id": "dunya_ab",
+        "Website": "none",
+        "Password": "vYe=M;12ytnc",
+        "encrepted": "False"
+    },
+    {
+        "Account": "python2",
+        "User_Id": "dunya_hadi",
+        "Website": "none",
+        "Password": "vYe=M;12ytnc",
+        "encrepted": "False"
+    },
+    {
+        "Account": "python2",
+        "User_Id": "dunia",
+        "Website": "",
+        "Password": "gAAAAABmVGPQOs5b5UimyXJqqL-p1fImhxW6wpKYDmXjE6TqsUD015pmMDgXo3L_8BXhITjylzoJT4kQQkZPYKVFj4efRHG0gg==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "python3",
+        "User_Id": "dunya",
+        "Website": "",
+        "Password": "ocoxjO8\"0@xK",
+        "encrepted": "False"
+    },
+    {
+        "Account": "python3",
+        "User_Id": "dunia",
+        "Website": "",
+        "Password": "gAAAAABmVGU7WTg9NThwxNU2ZQb24HUquWGlz5_ZQZuva98Pg-a9Yry9SFCzQhFIpYU4AimvyTZWeEEQVDdWfiFpm-qaIQZrfA==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "python2",
+        "User_Id": "dunia_miriam",
+        "Website": "",
+        "Password": "h!ybyKE3y!0!",
+        "encrepted": "False"
+    },
+    {
+        "Account": "python3",
+        "User_Id": "miriam",
+        "Website": "no",
+        "Password": "gAAAAABmVGkGIATQPmE2rkJRnGepWjWr0aD2fgleTjlSvPQJKrHByPiurbeBCtofE3pSKeP4y89JgOW9s5NWHcVciIRyNhj9Bw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "python4",
+        "User_Id": "dunya",
+        "Website": "none",
+        "Password": "1zYiqdh+s5ol,",
+        "encrepted": "False"
+    },
+    {
+        "Account": "python4",
+        "User_Id": "miriam",
+        "Website": "",
+        "Password": "gAAAAABmVGuXYF44k60UFh1SMQEAq3GL9QqAMkqHdKf4DCafJpoVP9yI_MLDtQ1dZ1DU2ll2Hu5vl3ECvmH00itZxaKYyEfZKw==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "python6",
+        "User_Id": "miriam",
+        "Website": "saded",
+        "Password": "zOafX[4b|38;I",
+        "encrepted": "False"
+    },
+    {
+        "Account": "python8",
+        "User_Id": "dsafds",
+        "Website": "",
+        "Password": "gAAAAABmVHIDLmtb8NVPQQV67rIEEnML7lYluk7wl6diEbvC3WzZsrlw_6tNU5ABcVlcs7Ej30amkvXlIHH9tGDyM7ct93iv0g==",
+        "encrepted": "True"
+    },
+    {
+        "Account": "python8",
+        "User_Id": "sadf",
+        "Website": "",
+        "Password": "x0n+U'uifRr0",
+        "encrepted": "False"
+    },
+    {
+        "Account": "dunya",
+        "User_Id": "dwqf",
+        "Website": "",
+        "Password": "12345",
+        "encrepted": "False"
+    },
+    {
+        "Account": "dseafs",
+        "User_Id": "dsfdsag",
+        "Website": "",
+        "Password": "gAAAAABmVHayN8sSRovaw8V_a9eP1qMXHvyOYCU6zFMjxARcnndFBAfBghQxYNHRZ3K-uomILWyBJD8KAqNspZ-vRYQeFxLMKw==",
+        "encrepted": "True"
+    }
+]
